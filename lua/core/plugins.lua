@@ -27,5 +27,6 @@ require("lazy").setup({
 {'neovim/nvim-lspconfig'},
 { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
 { "typicode/bg.nvim", lazy = false },
-{'nvimtools/none-ls.nvim'}
+{'nvimtools/none-ls.nvim'},
+{'xiyaowong/transparent.nvim', lazy = false}
 })
