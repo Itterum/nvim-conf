@@ -1,0 +1,13 @@
+{
+  "bg.nvim": { "branch": "main", "commit": "18b4161e22decab29fa8705c174bb29b5b39be36" },
+  "catppuccin": { "branch": "main", "commit": "faf15ab0201b564b6368ffa47b56feefc92ce3f4" },
+  "hop.nvim": { "branch": "master", "commit": "1a1eceafe54b5081eae4cb91c723abd1d450f34b" },
+  "lazy.nvim": { "branch": "main", "commit": "56ead98e05bb37a4ec28930a54d836d033cf00f2" },
+  "neo-tree.nvim": { "branch": "v3.x", "commit": "a77af2e764c5ed4038d27d1c463fa49cd4794e07" },
+  "none-ls.nvim": { "branch": "main", "commit": "96ec99437a80a9aae1634d0a20151529a67a0977" },
+  "nui.nvim": { "branch": "main", "commit": "b58e2bfda5cea347c9d58b7f11cf3012c7b3953f" },
+  "nvim-lspconfig": { "branch": "master", "commit": "627905ef6aabd99b31f369c33cd802a73144479c" },
+  "nvim-treesitter": { "branch": "master", "commit": "69170c93149ddb71a22bd954514806395c430c02" },
+  "nvim-web-devicons": { "branch": "master", "commit": "203da76ecfbb4b192cf830665b03eb651b635c94" },
+  "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" }
+}
